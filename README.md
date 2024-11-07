@@ -48,6 +48,7 @@ Here’s a similarly formatted **About** section for your **Auto-WAPT** GitHub r
 
 - **Certified Ethical Hacker (CEH)**
 - **Cisco Certified Network Associate (CCNA)**
+- **ISC2- Cyber Security Certified**
 
 ---
 
