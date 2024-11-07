@@ -54,7 +54,7 @@ Here’s a similarly formatted **About** section for your **Auto-WAPT** GitHub r
 
 ## 📖 **Published Articles**
 - **Threat Modeling and TTP Analysis for Modern Security** - [Read on Medium](https://medium.com/@sunnydilipkumar.shah)
-- 
+  
 
 ---
 
