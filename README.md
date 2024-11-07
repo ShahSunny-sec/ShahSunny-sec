@@ -31,8 +31,16 @@ With hands-on experience in **threat modeling, vulnerability assessments, automa
    - **Goal**: Assessed vulnerabilities across network environments with Wireshark, Metasploit, and OWASP.
    - **Outcomes**: Reduced response time by 30% with targeted APT threat hunting and exploited network vulnerabilities.
    - **Key Tools**: Wireshark, Metasploit, SQLMap, Snort
+Here’s a similarly formatted **About** section for your **Auto-WAPT** GitHub repository:
 
-> 📂 **[View All Projects Here](./Projects/)**
+####  **4. Auto-WAPT: Automated Web Application Penetration Testing**
+
+   - **Goal**: Automate web application penetration testing by discovering URLs and identifying vulnerabilities with tools like Nuclei, gau, and waybackurls.
+   - **Key Features**: Automates URL discovery, parameter filtering, and vulnerability scanning, saving results in an easy-to-review format.
+   - **Outcomes**: Enhances testing efficiency, reducing manual effort and improving accuracy in vulnerability detection across web applications.
+
+
+
 
 ---
 
