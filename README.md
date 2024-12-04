@@ -1,6 +1,6 @@
 # 👋 Hello! I’m Sunny Shah 👋
 
-🌐 **Cybersecurity Enthusiast | Offensive Security & Detection Engineering | Cloud Security Advocate** 🌐
+🌐 **Cybersecurity Enthusiast | Offensive Security & Detection Engineering | Threat Analyst | Cloud Security Advocate** 🌐
 
 With hands-on experience in **threat modeling, vulnerability assessments, automation, and incident response**, I’m dedicated to building resilient systems that stay one step ahead of adversaries. I’m pursuing my M.S. in Computer Engineering from San Jose State University, and I specialize in applying TTP analysis, SIEM tools, and secure coding to real-world security challenges.
 
