@@ -1,4 +1,4 @@
-# 👋 Hello! I’m Sunny Shah 👋
+#  Hello! I’m Sunny Shah 
 
 🌐 **Cybersecurity Enthusiast | Offensive Security & Detection Engineering | Threat Analyst | Cloud Security Advocate** 🌐
 
